@@ -1,0 +1,1 @@
+document.selection.StartOfLine((! document.selection.IsEmpty), mePosView);

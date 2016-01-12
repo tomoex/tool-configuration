@@ -1,0 +1,1 @@
+document.selection.EndOfLine((! document.selection.IsEmpty), mePosView);

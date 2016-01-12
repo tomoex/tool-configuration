@@ -1,0 +1,1 @@
+document.selection.EndOfDocument(! document.selection.IsEmpty);

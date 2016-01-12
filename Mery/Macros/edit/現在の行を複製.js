@@ -1,0 +1,1 @@
+﻿document.selection.DuplicateLine();
